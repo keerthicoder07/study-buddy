@@ -99,7 +99,7 @@ Rag1/
 ```
 
 ## 🤝 Contributing
-Built by [Your Name/Team]. contributions are welcome!
+Built by [Keerthi RV]. contributions are welcome!
 
 
 Project images
