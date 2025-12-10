@@ -1,4 +1,23 @@
-.venv
-chroma_db
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
 .env
-__pycache__
+
+# JavaScript / Node
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Database
+chroma_db/
+*.db

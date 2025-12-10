@@ -14,6 +14,6 @@ os.environ["GROQ_API_KEY"] =os.getenv("GROQ_API_KEY")
 
 from llama_index.llms.groq import Groq
 
-llm = Groq(model="llama3-8b-8192")
-llm_70b = Groq(model="llama3-70b-8192")
+llm = Groq(model="llama-3.1-8b-instant")
+llm_70b = Groq(model="llama-3.3-70b-versatile")
 embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-small-en-v1.5")
