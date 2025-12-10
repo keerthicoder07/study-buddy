@@ -100,3 +100,20 @@ Rag1/
 
 ## 🤝 Contributing
 Built by [Your Name/Team]. contributions are welcome!
+
+
+Project images
+
+<img width="993" height="1079" alt="Screenshot 2025-12-10 105415" src="https://github.com/user-attachments/assets/f36754a2-2741-4e7a-abe8-2a5567c0e638" />
+<img width="726" height="1074" alt="Screenshot 2025-12-10 105424" src="https://github.com/user-attachments/assets/589d576c-d319-4080-a2a9-e65d60acfed6" />
+<img width="997" height="1068" alt="Screenshot 2025-12-10 105433" src="https://github.com/user-attachments/assets/5f30d14f-333c-4106-adc5-2db0e94662a1" />
+<img width="1024" height="1079" alt="Screenshot 2025-12-10 105741" src="https://github.com/user-attachments/assets/6b48f7c0-0481-4d1a-8301-afd03065a9de" />
+<img width="1469" height="960" alt="Screenshot 2025-12-10 105908" src="https://github.com/user-attachments/assets/e38927c1-5d16-4483-acef-0c2fc3af911b" />
+<img width="1036" height="1069" alt="Screenshot 2025-12-10 105952" src="https://github.com/user-attachments/assets/5d0ca8cb-578d-4da4-97d4-15b33e729a9d" />
+
+
+
+
+
+
+
